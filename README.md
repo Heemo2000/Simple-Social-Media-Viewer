@@ -8,16 +8,32 @@ I have achieved loading the data using GetSnapshotAsync method and displayed the
 I have implemented like button functionality by suscribing to an event called onClick.
 <br/>
 <h1>App Screenshots</h1>
-<center>
-<img src="readme files/app_ss_1.png"/>
+<hr/>
 <br/>
-<img src="readme files/app_ss_2.png"/>
+<img style = "display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;"
+  src="readme files/app_ss_1.png"/>
 <br/>
-</center>
+<img style = "display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;"
+  src="readme files/app_ss_2.png"/>
+<br/>
 <h1>Database layout</h1>
+<hr/>
 <br/>
 Here is the layout of the database from firestore
 <br/>
-<center>
-<img src="readme files/firestore database.png"/>
-</center>
+<img style = "display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;"
+  src="readme files/firestore database.png"/>
+<br/>
+<h1>Cons to consider</h1>
+<br/>
+<hr/>
+<p align="left">Some files like .bundle and .so will be missing for the fact they are too large to be pushed.</p>
