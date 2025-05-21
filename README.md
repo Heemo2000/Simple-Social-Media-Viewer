@@ -12,14 +12,12 @@ I have implemented like button functionality by suscribing to an event called on
 <br/>
 <img style = "display: block;
   margin-left: auto;
-  margin-right: auto;
-  width: 50%;"
+  margin-right: auto;"
   src="readme files/app_ss_1.png"/>
 <br/>
 <img style = "display: block;
   margin-left: auto;
-  margin-right: auto;
-  width: 50%;"
+  margin-right: auto;"
   src="readme files/app_ss_2.png"/>
 <br/>
 <h1>Database layout</h1>
@@ -29,8 +27,7 @@ Here is the layout of the database from firestore
 <br/>
 <img style = "display: block;
   margin-left: auto;
-  margin-right: auto;
-  width: 50%;"
+  margin-right: auto;"
   src="readme files/firestore database.png"/>
 <br/>
 <h1>Cons to consider</h1>
