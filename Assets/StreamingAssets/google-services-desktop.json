@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1075876384149",
+    "project_id": "simple-social-media-viewer",
+    "storage_bucket": "simple-social-media-viewer.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075876384149:android:12288bcf304c55fc7f3a9c",
+        "android_client_info": {
+          "package_name": "com.heemoapps.simplesocialmediaviewer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdOg9rS6-r_nQS5vLvpdvp5dzFxQR6QvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
